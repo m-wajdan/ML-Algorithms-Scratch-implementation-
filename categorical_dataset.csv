@@ -1,0 +1,51 @@
+CustomerID,Gender,City,ProductCategory,SatisfactionLevel,DeliverySpeed,ProductRating
+C1,Male,Lahore,Electronics,Very Low,Slow,1
+C2,Female,Karachi,Clothing,Low,Average,2
+C3,Male,Islamabad,Grocery,Medium,Fast,3
+C4,Female,Peshawar,Furniture,High,Slow,4
+C5,Male,Lahore,Electronics,Very High,Average,5
+C6,Female,Karachi,Clothing,Very Low,Fast,1
+C7,Male,Islamabad,Grocery,Low,Slow,2
+C8,Female,Peshawar,Furniture,Medium,Average,3
+C9,Male,Lahore,Electronics,High,Fast,4
+C10,Female,Karachi,Clothing,Very High,Slow,5
+C11,Male,Islamabad,Grocery,Very Low,Average,1
+C12,Female,Peshawar,Furniture,Low,Fast,2
+C13,Male,Lahore,Electronics,Medium,Slow,3
+C14,Female,Karachi,Clothing,High,Average,4
+C15,Male,Islamabad,Grocery,Very High,Fast,5
+C16,Female,Peshawar,Furniture,Very Low,Slow,1
+C17,Male,Lahore,Electronics,Low,Average,2
+C18,Female,Karachi,Clothing,Medium,Fast,3
+C19,Male,Islamabad,Grocery,High,Slow,4
+C20,Female,Peshawar,Furniture,Very High,Average,5
+C21,Male,Lahore,Electronics,Very Low,Fast,1
+C22,Female,Karachi,Clothing,Low,Slow,2
+C23,Male,Islamabad,Grocery,Medium,Average,3
+C24,Female,Peshawar,Furniture,High,Fast,4
+C25,Male,Lahore,Electronics,Very High,Slow,5
+C26,Female,Karachi,Clothing,Very Low,Average,1
+C27,Male,Islamabad,Grocery,Low,Fast,2
+C28,Female,Peshawar,Furniture,Medium,Slow,3
+C29,Male,Lahore,Electronics,High,Average,4
+C30,Female,Karachi,Clothing,Very High,Fast,5
+C31,Male,Islamabad,Grocery,Very Low,Slow,1
+C32,Female,Peshawar,Furniture,Low,Average,2
+C33,Male,Lahore,Electronics,Medium,Fast,3
+C34,Female,Karachi,Clothing,High,Slow,4
+C35,Male,Islamabad,Grocery,Very High,Average,5
+C36,Female,Peshawar,Furniture,Very Low,Fast,1
+C37,Male,Lahore,Electronics,Low,Slow,2
+C38,Female,Karachi,Clothing,Medium,Average,3
+C39,Male,Islamabad,Grocery,High,Fast,4
+C40,Female,Peshawar,Furniture,Very High,Slow,5
+C41,Male,Lahore,Electronics,Very Low,Average,1
+C42,Female,Karachi,Clothing,Low,Fast,2
+C43,Male,Islamabad,Grocery,Medium,Slow,3
+C44,Female,Peshawar,Furniture,High,Average,4
+C45,Male,Lahore,Electronics,Very High,Fast,5
+C46,Female,Karachi,Clothing,Very Low,Slow,1
+C47,Male,Islamabad,Grocery,Low,Average,2
+C48,Female,Peshawar,Furniture,Medium,Fast,3
+C49,Male,Lahore,Electronics,High,Slow,4
+C50,Female,Karachi,Clothing,Very High,Average,5
